@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Nov 25 10:05:58 CST 2016
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1480039558103
+http\://maven.jeesite.com/nexus/content/groups/public/.error=
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-surefire-plugin\:jar\:2.10 from/to central (http\://repo.maven.apache.org/maven2)\: /home/lizelin/.m2/repository/org/apache/maven/plugins/maven-surefire-plugin/2.10/maven-surefire-plugin-2.10.jar.ahcdb391dea32e14209 (\u6CA1\u6709\u90A3\u4E2A\u6587\u4EF6\u6216\u76EE\u5F55)
+http\://maven.jeesite.com/nexus/content/groups/public/.lastUpdated=1480039554771

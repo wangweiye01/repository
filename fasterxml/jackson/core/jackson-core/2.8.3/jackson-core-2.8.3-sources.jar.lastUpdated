@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Dec 07 14:28:34 CST 2016
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1481092114214
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-core\:jar\:sources\:2.8.3 from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000

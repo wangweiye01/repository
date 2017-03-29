@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 14 11:32:55 CST 2015
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact xml-apis\:xml-apis\:jar\:1.0.b2 from/to central (http\://repo.maven.apache.org/maven2)\: The operation was cancelled.
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1431574375023

@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Nov 25 15:11:37 CST 2016
+default-http\://maven.jeesite.com/nexus/content/groups/public/.lastUpdated=1480057897789
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1480057897816
+http\://maven.jeesite.com/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-cori\u001Ajjjesjfljsadf\:pom\:4.1.9.RELEASE from/to jeesite-repos (http\://maven.jeesite.com/nexus/content/groups/public)\: Illegal character in path at index 84\: http\://maven.jeesite.com/nexus/content/groups/public/org/springframework/spring-cori\u001Ajjjesjfljsadf/4.1.9.RELEASE/spring-cori\u001Ajjjesjfljsadf-4.1.9.RELEASE.pom
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-cori\u001Ajjjesjfljsadf\:pom\:4.1.9.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 67\: http\://repo.maven.apache.org/maven2/org/springframework/spring-cori\u001Ajjjesjfljsadf/4.1.9.RELEASE/spring-cori\u001Ajjjesjfljsadf-4.1.9.RELEASE.pom

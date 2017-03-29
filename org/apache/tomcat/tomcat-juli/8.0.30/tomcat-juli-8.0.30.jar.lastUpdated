@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 17 16:30:24 CST 2017
+http\://repo.spring.io/ext-release-local/.lastUpdated=1489739411047
+http\://repo.spring.io/milestone/.error=
+http\://repo.spring.io/ext-release-local/.error=
+http\://repo.spring.io/snapshot/.lastUpdated=1489739424802
+http\://repo.spring.io/snapshot/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1489739408697
+http\://repo.spring.io/milestone/.lastUpdated=1489739422578
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.tomcat\:tomcat-juli\:jar\:8.0.30 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

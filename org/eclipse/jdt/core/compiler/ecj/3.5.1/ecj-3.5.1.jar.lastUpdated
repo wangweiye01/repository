@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Feb 22 12:25:17 CST 2017
+@legacy-dev.java.net-http\://download.java.net/maven/1/.lastUpdated=1487737516476
+http\://download.java.net/maven/2/.lastUpdated=1487737517839
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1487737516471
+@legacy-m1.java.net-http\://download.java.net/maven/1/.lastUpdated=1487737517840
+http\://download.java.net/maven/1/.error=Could not transfer artifact org.eclipse.jdt.core.compiler\:ecj\:jar\:3.5.1 from/to m1.java.net (http\://download.java.net/maven/1)\: Cannot access http\://download.java.net/maven/1 with type legacy using the available connector factories\: BasicRepositoryConnectorFactory
+http\://download.java.net/maven/2/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.eclipse.jdt.core.compiler\:ecj\:jar\:3.5.1 from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: org/eclipse/jdt/core/compiler/ecj/3.5.1/ecj-3.5.1.jar from central failed

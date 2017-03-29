@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Aug 01 22:11:24 CST 2016
+xmpcore-5.1.2.jar>=
+xmpcore-5.1.2-sources.jar>central=
+xmpcore-5.1.2.jar>central=
+xmpcore-5.1.2.pom>central=

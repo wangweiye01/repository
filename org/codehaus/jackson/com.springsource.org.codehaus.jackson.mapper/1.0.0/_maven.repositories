@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed May 20 14:09:47 CST 2015
+com.springsource.org.codehaus.jackson.mapper-1.0.0.pom>=
+com.springsource.org.codehaus.jackson.mapper-1.0.0.jar>=

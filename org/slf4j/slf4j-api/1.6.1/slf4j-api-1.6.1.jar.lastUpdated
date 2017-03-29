@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 24 11:37:09 CST 2016
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=Could not transfer artifact org.slf4j\:slf4j-api\:jar\:1.6.1 from/to jboss-releases (http\://repository.jboss.org/nexus/content/groups/public-jboss)\: The operation was cancelled.
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1479958629696
+@default-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1479958629698
+http\://maven.jeesite.com/nexus/content/groups/public/.error=
+http\://download.java.net/maven/2/.error=Could not transfer artifact org.slf4j\:slf4j-api\:jar\:1.6.1 from/to Java.net Maven 2 (http\://download.java.net/maven/2)\: The operation was cancelled.
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.slf4j\:slf4j-api\:jar\:1.6.1 from/to central (http\://repo.maven.apache.org/maven2)\: The operation was cancelled.
+http\://maven.jeesite.com/nexus/content/groups/public/.lastUpdated=1479958196072
+@default-http\://www.terracotta.org/download/reflector/releases/.lastUpdated=1479958629697
+http\://www.terracotta.org/download/reflector/releases/.error=Could not transfer artifact org.slf4j\:slf4j-api\:jar\:1.6.1 from/to terracotta-releases (http\://www.terracotta.org/download/reflector/releases)\: The operation was cancelled.
+@default-http\://download.java.net/maven/2/.lastUpdated=1479958629698

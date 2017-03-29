@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 13 11:35:09 CST 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1479956648829
+http\://maven.jeesite.com/nexus/content/groups/public/.error=Could not transfer artifact org.slf4j\:slf4j-jdk14\:pom\:1.5.6 from/to jeesite-repos (http\://maven.jeesite.com/nexus/content/groups/public)\: connect timed out
+@default-http\://maven.jeesite.com/nexus/content/groups/public/.lastUpdated=1479956641557
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1489376109216

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Aug 01 21:54:57 CST 2016
+http\://maven.jeesite.com/nexus/content/groups/public/.error=Could not transfer artifact org.jboss.logging\:jboss-logging\:jar\:sources\:3.2.1.Final from/to jeesite-repos (http\://maven.jeesite.com/nexus/content/groups/public)\: TransferFailedException
+https\://repo.maven.apache.org/maven2/.lastUpdated=1470059697966
+@default-jeesite-repos-http\://maven.jeesite.com/nexus/content/groups/public/.lastUpdated=1470059696276

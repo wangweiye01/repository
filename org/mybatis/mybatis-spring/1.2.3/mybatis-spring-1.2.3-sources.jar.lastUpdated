@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Aug 01 21:56:42 CST 2016
+http\://maven.jeesite.com/nexus/content/groups/public/.error=Could not transfer artifact org.mybatis\:mybatis-spring\:jar\:sources\:1.2.3 from/to jeesite-repos (http\://maven.jeesite.com/nexus/content/groups/public)\: TransferFailedException
+https\://repo.maven.apache.org/maven2/.lastUpdated=1470059802896
+@default-jeesite-repos-http\://maven.jeesite.com/nexus/content/groups/public/.lastUpdated=1470059800964

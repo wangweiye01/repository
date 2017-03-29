@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 13 11:35:14 CST 2017
+http\://maven.jeesite.com/nexus/content/groups/public/.error=Could not transfer artifact org.codehaus.plexus\:plexus-components\:pom\:1.1.4 from/to jeesite-repos (http\://maven.jeesite.com/nexus/content/groups/public)\: TransferFailedException
+https\://repo.maven.apache.org/maven2/.lastUpdated=1470058531823
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1489376114506
+@default-jeesite-repos-http\://maven.jeesite.com/nexus/content/groups/public/.lastUpdated=1470058531375

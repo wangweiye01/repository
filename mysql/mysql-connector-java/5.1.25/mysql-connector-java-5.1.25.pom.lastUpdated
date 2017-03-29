@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Dec 14 10:13:17 CST 2016
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1481681597749
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:5.1.25 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

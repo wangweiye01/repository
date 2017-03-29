@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Nov 24 20:40:26 CST 2016
+eclipselink-jpa-modelgen-2.5.1.jar>=
+eclipselink-jpa-modelgen-2.5.1.pom>=

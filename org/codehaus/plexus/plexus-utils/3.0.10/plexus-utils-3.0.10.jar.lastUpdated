@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Aug 01 22:19:44 CST 2016
+http\://maven.jeesite.com/nexus/content/groups/public/.error=Could not transfer artifact org.codehaus.plexus\:plexus-utils\:jar\:3.0.10 from/to jeesite-repos (http\://maven.jeesite.com/nexus/content/groups/public)\: Too many follow-up requests\: 21
+https\://repo.maven.apache.org/maven2/.lastUpdated=1470061184880
+@default-jeesite-repos-http\://maven.jeesite.com/nexus/content/groups/public/.lastUpdated=1470061142478

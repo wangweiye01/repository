@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Dec 14 10:10:56 CST 2016
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1481681456524
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.guava\:guava\:pom\:15.0 from/to central (https\://repo.maven.apache.org/maven2)\: connect timed out

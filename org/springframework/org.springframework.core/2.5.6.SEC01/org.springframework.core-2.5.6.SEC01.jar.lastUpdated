@@ -1,0 +1,22 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 03 11:14:54 CST 2016
+http\://maven.springframework.org/external/.lastUpdated=1456974882593
+http\://maven.springframework.org/snapshot/.lastUpdated=1456974892949
+http\://repo1.maven.org/eclipse/.lastUpdated=1456974251343
+@default-http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1456974282424
+http\://maven.springframework.org/osgi/.error=
+http\://springframework.svn.sourceforge.net/svnroot/springframework/repos/repo-ext/.lastUpdated=1456974892309
+http\://maven.springframework.org/external/.error=
+http\://maven.springframework.org/milestone/.lastUpdated=1456974884349
+http\://springframework.svn.sourceforge.net/svnroot/springframework/repos/repo-ext/.error=
+http\://maven.springframework.org/milestone/.error=
+http\://repo1.maven.org/eclipse/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1456974243559
+http\://maven.springframework.org/snapshot/.error=
+http\://repo.maven.apache.org/maven2/.error=
+http\://repository.springsource.com/maven/bundles/external/.error=Could not transfer artifact org.springframework\:org.springframework.core\:jar\:2.5.6.SEC01 from/to com.springsource.repository.bundles.external (http\://repository.springsource.com/maven/bundles/external)\: connect timed out
+http\://maven.springframework.org/release/.lastUpdated=1456974878917
+http\://maven.springframework.org/osgi/.lastUpdated=1456974894485
+http\://repository.springsource.com/maven/bundles/release/.error=Could not transfer artifact org.springframework\:org.springframework.core\:jar\:2.5.6.SEC01 from/to com.springsource.repository.bundles.release (http\://repository.springsource.com/maven/bundles/release)\: connect timed out
+@default-http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1456974866882
+http\://maven.springframework.org/release/.error=

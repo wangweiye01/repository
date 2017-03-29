@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.data</groupId>
+  <artifactId>spring-data-releasetrain</artifactId>
+  <version>Ingalls-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20161222.192900</timestamp>
+      <buildNumber>62</buildNumber>
+    </snapshot>
+    <lastUpdated>20161222192925</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom.asc</extension>
+        <value>Ingalls-BUILD-20161222.192900-62</value>
+        <updated>20161222192900</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>Ingalls-BUILD-20161222.192900-62</value>
+        <updated>20161222192900</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

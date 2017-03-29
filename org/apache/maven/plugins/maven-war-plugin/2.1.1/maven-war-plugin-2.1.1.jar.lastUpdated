@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Nov 25 10:06:39 CST 2016
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1480039599535
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-war-plugin\:jar\:2.1.1 from/to central (http\://repo.maven.apache.org/maven2)\: /home/lizelin/.m2/repository/org/apache/maven/plugins/maven-war-plugin/2.1.1/maven-war-plugin-2.1.1.jar.ahc0e247cb3e0f24256 (\u6CA1\u6709\u90A3\u4E2A\u6587\u4EF6\u6216\u76EE\u5F55)
