@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Feb 07 14:46:34 CST 2017
+#Fri Apr 14 09:59:31 CST 2017
+hibernate-entitymanager-4.3.11.Final.jar>central=
 hibernate-entitymanager-4.3.11.Final.jar>spring-releases=
+hibernate-entitymanager-4.3.11.Final.pom>central=
 hibernate-entitymanager-4.3.11.Final.pom>spring-releases=
