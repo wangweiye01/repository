@@ -1,2 +1,2 @@
 # repository
-java repository
+java maven repository
