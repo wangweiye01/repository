@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 18 14:32:21 CST 2017
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1492497138722
+@default-public-http\://10.0.12.207\:8081/nexus/content/groups/public/.lastUpdated=1492497138161
+http\://repo.spring.io/libs-release-local/.error=
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.googlecode.javaewah\:JavaEWAH\:pom\:0.7.9 from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Failed to transfer http\://repo.spring.io/libs-snapshot-local/com/googlecode/javaewah/JavaEWAH/0.7.9/JavaEWAH-0.7.9.pom. Error code 409, Conflict
+http\://10.0.12.207\:8081/nexus/content/groups/public/.error=Could not transfer artifact com.googlecode.javaewah\:JavaEWAH\:pom\:0.7.9 from/to public (http\://10.0.12.207\:8081/nexus/content/groups/public/)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1492497141136
+http\://repo.spring.io/libs-milestone-local/.error=
+http\://repo.spring.io/libs-milestone-local/.lastUpdated=1492497139288
+http\://repo.spring.io/libs-release-local/.lastUpdated=1492497139862

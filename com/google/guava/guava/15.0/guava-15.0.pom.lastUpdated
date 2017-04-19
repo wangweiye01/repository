@@ -1,4 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Dec 14 10:10:56 CST 2016
-@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1481681456524
-https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.guava\:guava\:pom\:15.0 from/to central (https\://repo.maven.apache.org/maven2)\: connect timed out
+#Wed Apr 19 09:14:59 CST 2017
+http\://maven.restlet.org/.error=
+http\://10.0.12.207\:8081/nexus/content/groups/public/.error=Could not transfer artifact com.google.guava\:guava\:pom\:15.0 from/to public (http\://10.0.12.207\:8081/nexus/content/groups/public/)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1492564499902
+@default-public-http\://10.0.12.207\:8081/nexus/content/groups/public/.lastUpdated=1492564498954
+http\://maven.restlet.org/.lastUpdated=1492497045231

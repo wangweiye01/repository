@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 18 16:38:26 CST 2017
+http\://10.0.12.207\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.integration\:spring-integration-tuple\:jar\:1.0.0.RELEASE from/to public (http\://10.0.12.207\:8081/nexus/content/groups/public/)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1492504706715
+@default-public-http\://10.0.12.207\:8081/nexus/content/groups/public/.lastUpdated=1492501940633

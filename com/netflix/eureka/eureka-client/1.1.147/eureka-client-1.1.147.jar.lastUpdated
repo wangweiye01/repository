@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 19 09:14:46 CST 2017
+http\://10.0.12.207\:8081/nexus/content/groups/public/.error=Could not transfer artifact com.netflix.eureka\:eureka-client\:jar\:1.1.147 from/to public (http\://10.0.12.207\:8081/nexus/content/groups/public/)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1492564486612
+@default-public-http\://10.0.12.207\:8081/nexus/content/groups/public/.lastUpdated=1492564171101
