@@ -1,9 +1,10 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Apr 18 14:30:58 CST 2017
+#Thu Apr 20 11:58:56 CST 2017
 http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-config-server\:pom\:1.1.0.RELEASE from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Failed to transfer http\://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-config-server/1.1.0.RELEASE/spring-cloud-config-server-1.1.0.RELEASE.pom. Error code 409, Conflict
-@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1492497056335
-http\://10.0.12.207\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-config-server\:pom\:1.1.0.RELEASE from/to public (http\://10.0.12.207\:8081/nexus/content/groups/public/)\: connect timed out
-http\://repo.spring.io/libs-milestone-local/.error=
 http\://repo.spring.io/libs-milestone-local/.lastUpdated=1492497056902
+http\://repo.spring.io/libs-milestone-local/.error=
+http\://10.0.12.207\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-config-server\:pom\:1.1.0.RELEASE from/to public (http\://10.0.12.207\:8081/nexus/content/groups/public/)\: connect timed out
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1492497056335
+https\://repo.maven.apache.org/maven2/.lastUpdated=1492660736402
 @default-public-http\://10.0.12.207\:8081/nexus/content/groups/public/.lastUpdated=1492497055742
 http\://repo.spring.io/libs-release-local/.lastUpdated=1492497058064
