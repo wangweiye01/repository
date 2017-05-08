@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 08 09:28:07 CST 2017
+https\://raw.github.com/venusdrogon/feilong-platform/repository/.lastUpdated=1494205580160
+https\://raw.github.com/venusdrogon/feilong-platform/repository/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1494206887724
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.commons\:commons-lang3\:jar\:3.5 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.
