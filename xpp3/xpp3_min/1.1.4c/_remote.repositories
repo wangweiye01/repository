@@ -1,6 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Aug 01 22:11:24 CST 2016
+#Tue May 09 13:41:31 CST 2017
 xpp3_min-1.1.4c-sources.jar>central=
 xpp3_min-1.1.4c.jar>=
+xpp3_min-1.1.4c.pom>nexus-aliyun=
 xpp3_min-1.1.4c.jar>central=
 xpp3_min-1.1.4c.pom>central=

@@ -1,4 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Aug 01 21:36:00 CST 2016
+#Wed May 10 17:15:57 CST 2017
 maven-settings-2.0.8.jar>central=
 maven-settings-2.0.8.pom>central=
+maven-settings-2.0.8.pom>nexus-aliyun=

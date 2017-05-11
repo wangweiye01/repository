@@ -1,6 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Aug 01 22:11:24 CST 2016
+#Tue May 09 13:40:40 CST 2017
+mybatis-spring-1.2.3.pom>nexus-aliyun=
 mybatis-spring-1.2.3-sources.jar>central=
 mybatis-spring-1.2.3.jar>central=
-mybatis-spring-1.2.3.jar>=
 mybatis-spring-1.2.3.pom>central=
+mybatis-spring-1.2.3.jar>=

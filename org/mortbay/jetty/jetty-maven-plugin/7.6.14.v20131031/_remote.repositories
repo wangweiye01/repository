@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Aug 01 22:52:25 CST 2016
+#Tue May 09 13:40:35 CST 2017
 jetty-maven-plugin-7.6.14.v20131031.jar>central=
 jetty-maven-plugin-7.6.14.v20131031.pom>central=
+jetty-maven-plugin-7.6.14.v20131031.pom>nexus-aliyun=
+jetty-maven-plugin-7.6.14.v20131031.jar>nexus-aliyun=

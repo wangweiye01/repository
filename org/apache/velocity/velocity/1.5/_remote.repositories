@@ -1,4 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Dec 02 13:59:09 CST 2016
-velocity-1.5.jar>central=
+#Wed May 10 17:15:52 CST 2017
+velocity-1.5.pom>nexus-aliyun=
 velocity-1.5.pom>central=
+velocity-1.5.jar>central=

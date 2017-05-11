@@ -1,5 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Aug 01 21:37:22 CST 2016
+#Tue May 09 13:42:02 CST 2017
 http\://maven.jeesite.com/nexus/content/groups/public/.error=Could not transfer artifact com.adobe.xmp\:xmpcore\:pom\:5.1.2 from/to jeesite-repos (http\://maven.jeesite.com/nexus/content/groups/public)\: TransferFailedException
 https\://repo.maven.apache.org/maven2/.lastUpdated=1470058642634
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1494308522215
 @default-jeesite-repos-http\://maven.jeesite.com/nexus/content/groups/public/.lastUpdated=1470058641747

@@ -1,6 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Aug 01 22:11:24 CST 2016
+#Tue May 09 13:40:37 CST 2017
 spring-core-4.1.9.RELEASE.pom>central=
-spring-core-4.1.9.RELEASE.jar>=
 spring-core-4.1.9.RELEASE-sources.jar>central=
+spring-core-4.1.9.RELEASE.jar>=
+spring-core-4.1.9.RELEASE.pom>nexus-aliyun=
 spring-core-4.1.9.RELEASE.jar>central=

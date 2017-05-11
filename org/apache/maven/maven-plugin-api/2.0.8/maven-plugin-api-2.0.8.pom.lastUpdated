@@ -1,5 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Aug 01 21:35:16 CST 2016
+#Wed May 10 17:15:58 CST 2017
 http\://maven.jeesite.com/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven\:maven-plugin-api\:pom\:2.0.8 from/to jeesite-repos (http\://maven.jeesite.com/nexus/content/groups/public)\: TransferFailedException
 https\://repo.maven.apache.org/maven2/.lastUpdated=1470058516429
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1494407758205
 @default-jeesite-repos-http\://maven.jeesite.com/nexus/content/groups/public/.lastUpdated=1470058515966

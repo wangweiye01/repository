@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Mar 17 16:43:35 CST 2016
+#Tue May 09 16:17:10 CST 2017
 jsr305-2.0.1.jar>central=
 jsr305-2.0.1.pom>central=
+jsr305-2.0.1.pom>nexus-aliyun=
+jsr305-2.0.1.jar>nexus-aliyun=

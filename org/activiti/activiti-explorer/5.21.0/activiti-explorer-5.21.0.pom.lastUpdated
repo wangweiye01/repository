@@ -1,5 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Aug 01 21:36:53 CST 2016
+#Tue May 09 13:40:49 CST 2017
 http\://maven.jeesite.com/nexus/content/groups/public/.error=Could not transfer artifact org.activiti\:activiti-explorer\:pom\:5.21.0 from/to jeesite-repos (http\://maven.jeesite.com/nexus/content/groups/public)\: TransferFailedException
 https\://repo.maven.apache.org/maven2/.lastUpdated=1470058613130
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1494308449359
 @default-jeesite-repos-http\://maven.jeesite.com/nexus/content/groups/public/.lastUpdated=1470058612662

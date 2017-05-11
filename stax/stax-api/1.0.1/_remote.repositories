@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Nov 24 12:47:59 CST 2016
+#Tue May 09 13:42:03 CST 2017
 stax-api-1.0.1.pom>central=
+stax-api-1.0.1.pom>nexus-aliyun=
+stax-api-1.0.1.jar>nexus-aliyun=
 stax-api-1.0.1.jar>central=

@@ -1,6 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Aug 01 22:11:24 CST 2016
+#Tue May 09 13:40:45 CST 2017
 jedis-2.5.1-sources.jar>central=
+jedis-2.5.1.pom>nexus-aliyun=
 jedis-2.5.1.jar>central=
 jedis-2.5.1.pom>central=
 jedis-2.5.1.jar>=

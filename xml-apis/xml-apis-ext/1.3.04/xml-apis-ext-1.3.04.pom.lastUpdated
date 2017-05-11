@@ -1,5 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Aug 01 21:37:10 CST 2016
+#Tue May 09 13:41:12 CST 2017
 http\://maven.jeesite.com/nexus/content/groups/public/.error=Could not transfer artifact xml-apis\:xml-apis-ext\:pom\:1.3.04 from/to jeesite-repos (http\://maven.jeesite.com/nexus/content/groups/public)\: TransferFailedException
 https\://repo.maven.apache.org/maven2/.lastUpdated=1470058630951
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1494308472814
 @default-jeesite-repos-http\://maven.jeesite.com/nexus/content/groups/public/.lastUpdated=1470058630469

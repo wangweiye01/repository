@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Aug 01 22:52:12 CST 2016
+#Tue May 09 13:40:34 CST 2017
 tomcat6-maven-plugin-2.2.jar>central=
 tomcat6-maven-plugin-2.2.pom>central=
+tomcat6-maven-plugin-2.2.pom>nexus-aliyun=
+tomcat6-maven-plugin-2.2.jar>nexus-aliyun=

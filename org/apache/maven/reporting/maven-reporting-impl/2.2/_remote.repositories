@@ -1,4 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Dec 02 13:59:09 CST 2016
-maven-reporting-impl-2.2.jar>central=
+#Wed May 10 17:15:49 CST 2017
 maven-reporting-impl-2.2.pom>central=
+maven-reporting-impl-2.2.jar>central=
+maven-reporting-impl-2.2.pom>nexus-aliyun=
